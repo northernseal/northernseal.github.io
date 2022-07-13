@@ -5,7 +5,7 @@ title: Andy's CV
 
 # 王啟畇
 
-<img src="https://github.com/northernseal/markdown-cv/blob/master/USA.jpg" width=20% >
+<img src="https://github.com/northernseal/northernseal.github.io/blob/main/assets/USA.jpg" width=20% >
 
 
 <div id="webaddress">
@@ -45,7 +45,7 @@ __國立交通大學應用化學系 Research Assistant__
 
 > 負責專案
 > 
-![timeline.drawio.svg](https://github.com/northernseal/markdown-cv/blob/master/timeline.drawio.svg)
+![timeline.drawio.svg](https://github.com/northernseal/northernseal.github.io/blob/main/assets/timeline.drawio.svg)
 
 <div style="page-break-after: always;"></div>
 
